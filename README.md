@@ -50,3 +50,7 @@ db-b54cd94f4-c4xlh                                 1/1     Running     0        
 11. complete the assignment by making the result pod work. (if you delete db pod, results would not be captured. So repeat what we did in the class in order to make the result pod work.).
 Voting aap was not working after deleting db pod, after deleting result pod it recreates it because replica set is already running for it. once result pod recreated it sync with db pod and it working properly with correct result
 
+Voting aap 
+54.251.166.222:31002
+Result
+54.251.166.222:31003
